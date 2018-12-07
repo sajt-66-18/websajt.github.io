@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+   <title>Travel news</title>
+   <link></link>
+   <description>Get your news as soon as possible!</description>
+   
+<item>
+   <title>America</title>
+   <link></link>
+   <description>New York City and Boston</description>
+</item>
+
+<item>
+   <title>Europe</title>
+   <link></link>
+   <description>Berlin and London</description>
+</item> 
+  
+</channel>
+</rss>
